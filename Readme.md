@@ -21,8 +21,3 @@
 
 
 ![My language](https://github-readme-stats.vercel.app/api/top-langs/?username=gamingdy&layout=compact&theme=jolly&langs_count=100&hide_border=true)
-
-
-![Gamingdy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gamingdy&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)
-
-
